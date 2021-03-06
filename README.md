@@ -5,3 +5,4 @@
 - MAS 766 Linear Statistical Models I: Regression Models (R)
 - IST 615 Cloud Management (App Design)
 - IST 707 Data Analytics (Orange3)
+- IST 718 Big Data Analytics (Pyspark)
